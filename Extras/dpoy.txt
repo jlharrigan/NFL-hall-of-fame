@@ -1,0 +1,52 @@
+Year,Lg,Pos,Player,Tm,Voting,Player-additional
+2021,NFL,OLB,T.J. Watt,Pittsburgh Steelers,Voting,WattT.00
+2020,NFL,DT,Aaron Donald,Los Angeles Rams,Voting,DonaAa00
+2019,NFL,CB,Stephon Gilmore,New England Patriots,Voting,GilmSt00
+2018,NFL,DT,Aaron Donald,Los Angeles Rams,Voting,DonaAa00
+2017,NFL,DT,Aaron Donald,Los Angeles Rams,Voting,DonaAa00
+2016,NFL,OLB,Khalil Mack,Oakland Raiders,Voting,MackKh00
+2015,NFL,DE,J.J. Watt,Houston Texans,Voting,WattJ.00
+2014,NFL,DE,J.J. Watt,Houston Texans,Voting,WattJ.00
+2013,NFL,ILB,Luke Kuechly,Carolina Panthers,Voting,KuecLu00
+2012,NFL,DE,J.J. Watt,Houston Texans,Voting,WattJ.00
+2011,NFL,LOLB,Terrell Suggs,Baltimore Ravens,Voting,SuggTe99
+2010,NFL,SS,Troy Polamalu,Pittsburgh Steelers,Voting,PolaTr99
+2009,NFL,LCB,Charles Woodson,Green Bay Packers,Voting,WoodCh00
+2008,NFL,ROLB,James Harrison,Pittsburgh Steelers,Voting,HarrJa23
+2007,NFL,DB,Bob Sanders,Indianapolis Colts,Voting,SandBo99
+2006,NFL,RDE,Jason Taylor,Miami Dolphins,Voting,TaylJa03
+2005,NFL,MLB,Brian Urlacher,Chicago Bears,Voting,UrlaBr00
+2004,NFL,FS,Ed Reed,Baltimore Ravens,Voting,ReedEd00
+2003,NFL,MLB,Ray Lewis,Baltimore Ravens,Voting,LewiRa00
+2002,NFL,RLB,Derrick Brooks,Tampa Bay Buccaneers,Voting,BrooDe00
+2001,NFL,LDE,Michael Strahan,New York Giants,Voting,StraMi02
+2000,NFL,MLB,Ray Lewis,Baltimore Ravens,Voting,LewiRa00
+1999,NFL,RDT,Warren Sapp,Tampa Bay Buccaneers,Voting,SappWa00
+1998,NFL,LDE,Reggie White,Green Bay Packers,Voting,WhitRe00
+1997,NFL,RDT,Dana Stubblefield,San Francisco 49ers,Voting,StubDa00
+1996,NFL,RDE,Bruce Smith,Buffalo Bills,Voting,SmitBr00
+1995,NFL,LOLB,Bryce Paup,Buffalo Bills,Voting,PaupBr00
+1994,NFL,RCB,Deion Sanders,San Francisco 49ers,Voting,SandDe00
+1993,NFL,DB,Rod Woodson,Pittsburgh Steelers,Voting,WoodRo01
+1992,NFL,RDT,Cortez Kennedy,Seattle Seahawks,Voting,KennCo00
+1991,NFL,ROLB,Pat Swilling,New Orleans Saints,Voting,SwilPa00
+1990,NFL,RDE,Bruce Smith,Buffalo Bills,Voting,SmitBr00
+1989,NFL,RDT,Keith Millard,Minnesota Vikings,Voting,MillKe00
+1988,NFL,MLB,Mike Singletary,Chicago Bears,Voting,SingMi00
+1987,NFL,LDE,Reggie White,Philadelphia Eagles,Voting,WhitRe00
+1986,NFL,ROLB,Lawrence Taylor,New York Giants,Voting,TaylLa00
+1985,NFL,MLB,Mike Singletary,Chicago Bears,Voting,SingMi00
+1984,NFL,SS,Kenny Easley,Seattle Seahawks,Voting,EaslKe00
+1983,NFL,LDE,Doug Betters,Miami Dolphins,Voting,BettDo00
+1982,NFL,ROLB,Lawrence Taylor,New York Giants,Voting,TaylLa00
+1981,NFL,ROLB,Lawrence Taylor,New York Giants,Voting,TaylLa00
+1980,NFL,LCB,Lester Hayes,Oakland Raiders,Voting,HayeLe00
+1979,NFL,RDE,Lee Roy Selmon,Tampa Bay Buccaneers,Voting,SelmLe00
+1978,NFL,RILB,Randy Gradishar,Denver Broncos,Voting,GradRa00
+1977,NFL,RDE,Harvey Martin,Dallas Cowboys,Voting,MartHa00
+1976,NFL,MLB,Jack Lambert,Pittsburgh Steelers,Voting,LambJa00
+1975,NFL,RCB,Mel Blount,Pittsburgh Steelers,Voting,BlouMe00
+1974,NFL,LDT,Joe Greene,Pittsburgh Steelers,Voting,GreeJo02
+1973,NFL,SS,Dick Anderson,Miami Dolphins,Voting,AndeDi00
+1972,NFL,LDT,Joe Greene,Pittsburgh Steelers,Voting,GreeJo02
+1971,NFL,RDT,Alan Page,Minnesota Vikings,Voting,PageAl00

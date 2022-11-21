@@ -1,0 +1,51 @@
+Year,Lg,Pos,Player,Tm,Voting,Player-additional
+2021,NFL,WR,Cooper Kupp,Los Angeles Rams,Voting,KuppCo00
+2020,NFL,RB,Derrick Henry,Tennessee Titans,Voting,HenrDe00
+2019,NFL,WR,Michael Thomas,New Orleans Saints,Voting,ThomMi05
+2018,NFL,QB,Patrick Mahomes,Kansas City Chiefs,Voting,MahoPa00
+2017,NFL,RB,Todd Gurley,Los Angeles Rams,Voting,GurlTo01
+2016,NFL,QB,Matt Ryan,Atlanta Falcons,Voting,RyanMa00
+2015,NFL,QB,Cam Newton,Carolina Panthers,Voting,NewtCa00
+2014,NFL,RB,DeMarco Murray,Dallas Cowboys,Voting,MurrDe00
+2013,NFL,QB,Peyton Manning,Denver Broncos,Voting,MannPe00
+2012,NFL,RB,Adrian Peterson,Minnesota Vikings,Voting,PeteAd01
+2011,NFL,QB,Drew Brees,New Orleans Saints,Voting,BreeDr00
+2010,NFL,QB,Tom Brady,New England Patriots,Voting,BradTo00
+2009,NFL,RB,Chris Johnson,Tennessee Titans,Voting,JohnCh04
+2008,NFL,QB,Drew Brees,New Orleans Saints,Voting,BreeDr00
+2007,NFL,QB,Tom Brady,New England Patriots,Voting,BradTo00
+2006,NFL,RB,LaDainian Tomlinson,San Diego Chargers,Voting,TomlLa00
+2005,NFL,RB,Shaun Alexander,Seattle Seahawks,Voting,AlexSh00
+2004,NFL,QB,Peyton Manning,Indianapolis Colts,Voting,MannPe00
+2003,NFL,RB,Jamal Lewis,Baltimore Ravens,Voting,LewiJa00
+2002,NFL,RB,Priest Holmes,Kansas City Chiefs,Voting,HolmPr00
+2001,NFL,RB,Marshall Faulk,St. Louis Rams,Voting,FaulMa00
+2000,NFL,RB,Marshall Faulk,St. Louis Rams,Voting,FaulMa00
+1999,NFL,RB,Marshall Faulk,St. Louis Rams,Voting,FaulMa00
+1998,NFL,RB,Terrell Davis,Denver Broncos,Voting,DaviTe00
+1997,NFL,RB,Barry Sanders,Detroit Lions,Voting,SandBa00
+1996,NFL,RB,Terrell Davis,Denver Broncos,Voting,DaviTe00
+1995,NFL,QB,Brett Favre,Green Bay Packers,Voting,FavrBr00
+1994,NFL,RB,Barry Sanders,Detroit Lions,Voting,SandBa00
+1993,NFL,WR,Jerry Rice,San Francisco 49ers,Voting,RiceJe00
+1992,NFL,QB,Steve Young,San Francisco 49ers,Voting,YounSt00
+1991,NFL,RB,Thurman Thomas,Buffalo Bills,Voting,ThomTh00
+1990,NFL,QB,Warren Moon,Houston Oilers,Voting,MoonWa00
+1989,NFL,QB,Joe Montana,San Francisco 49ers,Voting,MontJo01
+1988,NFL,RB,Roger Craig,San Francisco 49ers,Voting,CraiRo00
+1987,NFL,WR,Jerry Rice,San Francisco 49ers,Voting,RiceJe00
+1986,NFL,RB,Eric Dickerson,Los Angeles Rams,Voting,DickEr00
+1985,NFL,RB,Marcus Allen,Los Angeles Raiders,Voting,AlleMa00
+1984,NFL,QB,Dan Marino,Miami Dolphins,Voting,MariDa00
+1983,NFL,QB,Joe Theismann,Washington Redskins,Voting,TheiJo00
+1982,NFL,QB,Dan Fouts,San Diego Chargers,Voting,FoutDa00
+1981,NFL,QB,Ken Anderson,Cincinnati Bengals,Voting,AndeKe00
+1980,NFL,RB,Earl Campbell,Houston Oilers,Voting,CampEa00
+1979,NFL,RB,Earl Campbell,Houston Oilers,Voting,CampEa00
+1978,NFL,RB,Earl Campbell,Houston Oilers,Voting,CampEa00
+1977,NFL,RB,Walter Payton,Chicago Bears,Voting,PaytWa00
+1976,NFL,QB,Bert Jones,Baltimore Colts,Voting,JoneBe00
+1975,NFL,QB,Fran Tarkenton,Minnesota Vikings,Voting,TarkFr00
+1974,NFL,QB,Ken Stabler,Oakland Raiders,Voting,StabKe00
+1973,NFL,RB,O.J. Simpson,Buffalo Bills,Voting,SimpO.00
+1972,NFL,RB,Larry Brown,Washington Redskins,Voting,BrowLa01

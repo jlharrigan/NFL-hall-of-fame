@@ -1,0 +1,67 @@
+Year,Lg,Pos,Player,Tm,Voting,Player-additional
+2021,NFL,QB,Aaron Rodgers,Green Bay Packers,Voting,RodgAa00
+2020,NFL,QB,Aaron Rodgers,Green Bay Packers,Voting,RodgAa00
+2019,NFL,QB,Lamar Jackson,Baltimore Ravens,Voting,JackLa00
+2018,NFL,QB,Patrick Mahomes,Kansas City Chiefs,Voting,MahoPa00
+2017,NFL,QB,Tom Brady,New England Patriots,Voting,BradTo00
+2016,NFL,QB,Matt Ryan,Atlanta Falcons,Voting,RyanMa00
+2015,NFL,QB,Cam Newton,Carolina Panthers,Voting,NewtCa00
+2014,NFL,QB,Aaron Rodgers,Green Bay Packers,Voting,RodgAa00
+2013,NFL,QB,Peyton Manning,Denver Broncos,Voting,MannPe00
+2012,NFL,RB,Adrian Peterson,Minnesota Vikings,Voting,PeteAd01
+2011,NFL,QB,Aaron Rodgers,Green Bay Packers,Voting,RodgAa00
+2010,NFL,QB,Tom Brady,New England Patriots,Voting,BradTo00
+2009,NFL,QB,Peyton Manning,Indianapolis Colts,Voting,MannPe00
+2008,NFL,QB,Peyton Manning,Indianapolis Colts,Voting,MannPe00
+2007,NFL,QB,Tom Brady,New England Patriots,Voting,BradTo00
+2006,NFL,RB,LaDainian Tomlinson,San Diego Chargers,Voting,TomlLa00
+2005,NFL,RB,Shaun Alexander,Seattle Seahawks,Voting,AlexSh00
+2004,NFL,QB,Peyton Manning,Indianapolis Colts,Voting,MannPe00
+2003,NFL,QB,Steve McNair,Tennessee Titans,Voting,McNaSt00
+2003,NFL,QB,Peyton Manning,Indianapolis Colts,Voting,MannPe00
+2002,NFL,QB,Rich Gannon,Oakland Raiders,Voting,GannRi00
+2001,NFL,QB,Kurt Warner,St. Louis Rams,Voting,WarnKu00
+2000,NFL,RB,Marshall Faulk,St. Louis Rams,Voting,FaulMa00
+1999,NFL,QB,Kurt Warner,St. Louis Rams,Voting,WarnKu00
+1998,NFL,RB,Terrell Davis,Denver Broncos,Voting,DaviTe00
+1997,NFL,RB,Barry Sanders,Detroit Lions,Voting,SandBa00
+1997,NFL,QB,Brett Favre,Green Bay Packers,Voting,FavrBr00
+1996,NFL,QB,Brett Favre,Green Bay Packers,Voting,FavrBr00
+1995,NFL,QB,Brett Favre,Green Bay Packers,Voting,FavrBr00
+1994,NFL,QB,Steve Young,San Francisco 49ers,Voting,YounSt00
+1993,NFL,RB,Emmitt Smith,Dallas Cowboys,Voting,SmitEm00
+1992,NFL,QB,Steve Young,San Francisco 49ers,Voting,YounSt00
+1991,NFL,RB,Thurman Thomas,Buffalo Bills,Voting,ThomTh00
+1990,NFL,QB,Joe Montana,San Francisco 49ers,Voting,MontJo01
+1989,NFL,QB,Joe Montana,San Francisco 49ers,Voting,MontJo01
+1988,NFL,QB,Boomer Esiason,Cincinnati Bengals,Voting,EsiaBo00
+1987,NFL,QB,John Elway,Denver Broncos,Voting,ElwaJo00
+1986,NFL,ROLB,Lawrence Taylor,New York Giants,Voting,TaylLa00
+1985,NFL,RB,Marcus Allen,Los Angeles Raiders,Voting,AlleMa00
+1984,NFL,QB,Dan Marino,Miami Dolphins,Voting,MariDa00
+1983,NFL,QB,Joe Theismann,Washington Redskins,Voting,TheiJo00
+1982,NFL,K,Mark Moseley,Washington Redskins,Voting,moselmar01
+1981,NFL,QB,Ken Anderson,Cincinnati Bengals,Voting,AndeKe00
+1980,NFL,QB,Brian Sipe,Cleveland Browns,Voting,SipeBr00
+1979,NFL,RB,Earl Campbell,Houston Oilers,Voting,CampEa00
+1978,NFL,QB,Terry Bradshaw,Pittsburgh Steelers,Voting,BradTe00
+1977,NFL,RB,Walter Payton,Chicago Bears,Voting,PaytWa00
+1976,NFL,QB,Bert Jones,Baltimore Colts,Voting,JoneBe00
+1975,NFL,QB,Fran Tarkenton,Minnesota Vikings,Voting,TarkFr00
+1974,NFL,QB,Ken Stabler,Oakland Raiders,Voting,StabKe00
+1973,NFL,RB,O.J. Simpson,Buffalo Bills,Voting,SimpO.00
+1972,NFL,RB,Larry Brown,Washington Redskins,Voting,BrowLa01
+1971,NFL,RDT,Alan Page,Minnesota Vikings,Voting,PageAl00
+1970,NFL,QB,John Brodie,San Francisco 49ers,Voting,BrodJo00
+1969,NFL,QB,Roman Gabriel,Los Angeles Rams,Voting,GabrRo00
+1968,NFL,QB,Earl Morrall,Baltimore Colts,Voting,MorrEa00
+1967,NFL,QB,Johnny Unitas,Baltimore Colts,Voting,UnitJo00
+1966,NFL,QB,Bart Starr,Green Bay Packers,Voting,StarBa00
+1965,NFL,FB,Jim Brown,Cleveland Browns,Voting,BrowJi00
+1964,NFL,QB,Johnny Unitas,Baltimore Colts,Voting,UnitJo00
+1963,NFL,QB,Y.A. Tittle,New York Giants,Voting,TittY.00
+1962,NFL,FB,Jim Taylor,Green Bay Packers,Voting,TaylJi00
+1961,NFL,HB,Paul Hornung,Green Bay Packers,Voting,HornPa00
+1959,NFL,QB,Johnny Unitas,Baltimore Colts,Voting,UnitJo00
+1958,NFL,FB,Jim Brown,Cleveland Browns,Voting,BrowJi00
+1957,NFL,FB,Jim Brown,Cleveland Browns,Voting,BrowJi00

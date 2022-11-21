@@ -1,0 +1,58 @@
+Year,Lg,Pos,Player,Tm,Player-additional
+2021,NFL,WR,Cooper Kupp,Los Angeles Rams,KuppCo00
+2020,NFL,QB,Tom Brady,Tampa Bay Buccaneers,BradTo00
+2019,NFL,QB,Patrick Mahomes,Kansas City Chiefs,MahoPa00
+2018,NFL,WR,Julian Edelman,New England Patriots,EdelJu00
+2017,NFL,QB,Nick Foles,Philadelphia Eagles,FoleNi00
+2016,NFL,QB,Tom Brady,New England Patriots,BradTo00
+2015,NFL,OLB,Von Miller,Denver Broncos,MillVo00
+2014,NFL,QB,Tom Brady,New England Patriots,BradTo00
+2013,NFL,MLB,Malcolm Smith,Seattle Seahawks,SmitMa02
+2012,NFL,QB,Joe Flacco,Baltimore Ravens,FlacJo00
+2011,NFL,QB,Eli Manning,New York Giants,MannEl00
+2010,NFL,QB,Aaron Rodgers,Green Bay Packers,RodgAa00
+2009,NFL,QB,Drew Brees,New Orleans Saints,BreeDr00
+2008,NFL,WR,Santonio Holmes,Pittsburgh Steelers,HolmSa00
+2007,NFL,QB,Eli Manning,New York Giants,MannEl00
+2006,NFL,QB,Peyton Manning,Indianapolis Colts,MannPe00
+2005,NFL,WR,Hines Ward,Pittsburgh Steelers,WardHi00
+2004,NFL,WR,Deion Branch,New England Patriots,BranDe00
+2003,NFL,QB,Tom Brady,New England Patriots,BradTo00
+2002,NFL,FS,Dexter Jackson,Tampa Bay Buccaneers,JackDe20
+2001,NFL,QB,Tom Brady,New England Patriots,BradTo00
+2000,NFL,MLB,Ray Lewis,Baltimore Ravens,LewiRa00
+1999,NFL,QB,Kurt Warner,St. Louis Rams,WarnKu00
+1998,NFL,QB,John Elway,Denver Broncos,ElwaJo00
+1997,NFL,RB,Terrell Davis,Denver Broncos,DaviTe00
+1996,NFL,WR,Desmond Howard,Green Bay Packers,HowaDe00
+1995,NFL,RCB,Larry Brown,Dallas Cowboys,BrowLa22
+1994,NFL,QB,Steve Young,San Francisco 49ers,YounSt00
+1993,NFL,RB,Emmitt Smith,Dallas Cowboys,SmitEm00
+1992,NFL,QB,Troy Aikman,Dallas Cowboys,AikmTr00
+1991,NFL,QB,Mark Rypien,Washington Redskins,RypiMa00
+1990,NFL,RB,Ottis Anderson,New York Giants,AndeOt00
+1989,NFL,QB,Joe Montana,San Francisco 49ers,MontJo01
+1988,NFL,WR,Jerry Rice,San Francisco 49ers,RiceJe00
+1987,NFL,QB,Doug Williams,Washington Redskins,WillDo01
+1986,NFL,QB,Phil Simms,New York Giants,SimmPh00
+1985,NFL,RDE,Richard Dent,Chicago Bears,DentRi00
+1984,NFL,QB,Joe Montana,San Francisco 49ers,MontJo01
+1983,NFL,RB,Marcus Allen,Los Angeles Raiders,AlleMa00
+1982,NFL,FB,John Riggins,Washington Redskins,RiggJo00
+1981,NFL,QB,Joe Montana,San Francisco 49ers,MontJo01
+1980,NFL,QB,Jim Plunkett,Oakland Raiders,PlunJi00
+1979,NFL,QB,Terry Bradshaw,Pittsburgh Steelers,BradTe00
+1978,NFL,QB,Terry Bradshaw,Pittsburgh Steelers,BradTe00
+1977,NFL,RDT,Randy White,Dallas Cowboys,WhitRa00
+1977,NFL,RDE,Harvey Martin,Dallas Cowboys,MartHa00
+1976,NFL,WR,Fred Biletnikoff,Oakland Raiders,BileFr00
+1975,NFL,WR,Lynn Swann,Pittsburgh Steelers,SwanLy00
+1974,NFL,FB,Franco Harris,Pittsburgh Steelers,HarrFr00
+1973,NFL,FB,Larry Csonka,Miami Dolphins,CsonLa00
+1972,NFL,FS,Jake Scott,Miami Dolphins,ScotJa01
+1971,NFL,QB,Roger Staubach,Dallas Cowboys,StauRo00
+1970,NFL,LLB,Chuck Howley,Dallas Cowboys,HowlCh00
+1969,AFL,QB,Len Dawson,Kansas City Chiefs,DawsLe00
+1968,AFL,QB,Joe Namath,New York Jets,NamaJo00
+1967,NFL,QB,Bart Starr,Green Bay Packers,StarBa00
+1966,NFL,QB,Bart Starr,Green Bay Packers,StarBa00

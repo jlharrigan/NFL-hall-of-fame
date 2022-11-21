@@ -1,0 +1,56 @@
+Year,Lg,Pos,Player,Tm,Voting,Player-additional
+2021,NFL,WR,Ja'Marr Chase,Cincinnati Bengals,Voting,ChasJa00
+2020,NFL,QB,Justin Herbert,Los Angeles Chargers,Voting,HerbJu00
+2019,NFL,QB,Kyler Murray,Arizona Cardinals,Voting,MurrKy00
+2018,NFL,RB,Saquon Barkley,New York Giants,Voting,BarkSa00
+2017,NFL,RB,Alvin Kamara,New Orleans Saints,Voting,KamaAl00
+2016,NFL,QB,Dak Prescott,Dallas Cowboys,Voting,PresDa01
+2015,NFL,RB,Todd Gurley,St. Louis Rams,Voting,GurlTo01
+2014,NFL,WR,Odell Beckham Jr.,New York Giants,Voting,BeckOd00
+2013,NFL,RB,Eddie Lacy,Green Bay Packers,Voting,LacyEd00
+2012,NFL,QB,Robert Griffin III,Washington Redskins,Voting,GrifRo01
+2011,NFL,QB,Cam Newton,Carolina Panthers,Voting,NewtCa00
+2010,NFL,QB,Sam Bradford,St. Louis Rams,Voting,BradSa00
+2009,NFL,WR,Percy Harvin,Minnesota Vikings,Voting,HarvPe00
+2008,NFL,QB,Matt Ryan,Atlanta Falcons,Voting,RyanMa00
+2007,NFL,RB,Adrian Peterson,Minnesota Vikings,Voting,PeteAd01
+2006,NFL,QB,Vince Young,Tennessee Titans,Voting,YounVi00
+2005,NFL,RB,Cadillac Williams,Tampa Bay Buccaneers,Voting,WillCa02
+2004,NFL,QB,Ben Roethlisberger,Pittsburgh Steelers,Voting,RoetBe00
+2003,NFL,WR,Anquan Boldin,Arizona Cardinals,Voting,BoldAn00
+2002,NFL,RB,Clinton Portis,Denver Broncos,Voting,PortCl00
+2001,NFL,RB,Anthony Thomas,Chicago Bears,Voting,ThomAn01
+2000,NFL,RB,Mike Anderson,Denver Broncos,Voting,AndeMi00
+1999,NFL,RB,Edgerrin James,Indianapolis Colts,Voting,JameEd00
+1998,NFL,WR,Randy Moss,Minnesota Vikings,Voting,MossRa00
+1997,NFL,RB,Warrick Dunn,Tampa Bay Buccaneers,Voting,DunnWa00
+1996,NFL,RB,Eddie George,Houston Oilers,Voting,GeorEd00
+1995,NFL,RB,Curtis Martin,New England Patriots,Voting,MartCu00
+1994,NFL,RB,Marshall Faulk,Indianapolis Colts,Voting,FaulMa00
+1993,NFL,RB,Jerome Bettis,Los Angeles Rams,Voting,BettJe00
+1992,NFL,WR,Carl Pickens,Cincinnati Bengals,Voting,PickCa00
+1991,NFL,RB,Leonard Russell,New England Patriots,Voting,RussLe00
+1990,NFL,RB,Emmitt Smith,Dallas Cowboys,Voting,SmitEm00
+1989,NFL,RB,Barry Sanders,Detroit Lions,Voting,SandBa00
+1988,NFL,RB,John Stephens,New England Patriots,Voting,StepJo00
+1987,NFL,RB,Troy Stradford,Miami Dolphins,Voting,StraTr00
+1986,NFL,RB,Rueben Mayes,New Orleans Saints,Voting,MayeRu00
+1985,NFL,WR,Eddie Brown,Cincinnati Bengals,Voting,BrowEd00
+1984,NFL,WR,Louis Lipps,Pittsburgh Steelers,Voting,LippLo00
+1983,NFL,RB,Eric Dickerson,Los Angeles Rams,Voting,DickEr00
+1982,NFL,RB,Marcus Allen,Los Angeles Raiders,Voting,AlleMa00
+1981,NFL,RB,George Rogers,New Orleans Saints,Voting,RogeGe00
+1980,NFL,RB,Billy Sims,Detroit Lions,Voting,SimsBi00
+1979,NFL,RB,Ottis Anderson,St. Louis Cardinals,Voting,AndeOt00
+1978,NFL,RB,Earl Campbell,Houston Oilers,Voting,CampEa00
+1977,NFL,RB,Tony Dorsett,Dallas Cowboys,Voting,DorsTo00
+1976,NFL,WR,Sammy White,Minnesota Vikings,Voting,WhitSa00
+1975,NFL,RB,Mike Thomas,Washington Redskins,Voting,ThomMi00
+1974,NFL,RB,Don Woods,San Diego Chargers,Voting,WoodDo00
+1973,NFL,RB,Chuck Foreman,Minnesota Vikings,Voting,ForeCh00
+1972,NFL,FB,Franco Harris,Pittsburgh Steelers,Voting,HarrFr00
+1971,NFL,FB,John Brockington,Green Bay Packers,Voting,BrocJo00
+1970,NFL,QB,Dennis Shaw,Buffalo Bills,Voting,ShawDe00
+1969,NFL,RB,Calvin Hill,Dallas Cowboys,Voting,HillCa00
+1968,NFL,WR,Earl McCullouch,Detroit Lions,Voting,McCuEa00
+1967,NFL,RB,Mel Farr,Detroit Lions,Voting,FarrMe00
